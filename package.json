@@ -1,0 +1,29 @@
+{
+  "name": "learning-npm",
+  "version": "1.0.0",
+  "description": "Testowy plik package.json do nauki npm'a",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tomm1slaw/Learning-npm.git"
+  },
+  "keywords": [
+    "nauka",
+    "npm",
+    "node"
+  ],
+  "author": "Tomek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tomm1slaw/Learning-npm/issues"
+  },
+  "homepage": "https://github.com/Tomm1slaw/Learning-npm#readme",
+  "dependencies": {
+    "colors": "^1.3.2",
+    "stat-mode": "^0.2.2"
+  }
+}
